@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### My Addition
+
+**Hi!**
+
+*I had teriyaki chicken and fried rice and am now able to lock in on doing work, so I got done with my 193 homework!*
+
+As for what I am up to otherwise:
+
+- Watching Ted Lasso
+- Drinking water
+- Being sleepy
+- Bouncing my leg subconsiously
